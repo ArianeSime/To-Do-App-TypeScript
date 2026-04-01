@@ -3,7 +3,7 @@
 This is a simple To-Do application built with TypeScript, HTML, and CSS.
 
 ## Purpose
-This project was created to explore the difference between JavaScript and TypeScript, especially type safety and structured code.
+This project was created to explore the difference between JavaScript and TypeScript, with a focus on type safety, structured code, and DOM manipulation.
 
 ## Features
 - Add tasks
@@ -21,6 +21,11 @@ This project was created to explore the difference between JavaScript and TypeSc
 - HTML
 - CSS
 
-### Overview
+## Preview
 ![Overview](to-do-overview.PNG)
-![Alert](to-do-alert.PNG)
+
+## What I learned
+- Difference between dynamic (JavaScript) and static typing (TypeScript)
+- How to structure data using interfaces
+- DOM manipulation and event handling
+- Synchronizing application state with UI
